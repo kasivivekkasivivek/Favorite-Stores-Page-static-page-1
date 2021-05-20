@@ -1,4 +1,4 @@
-### Live Demo :- <a href="favoritestores.ccbp.tech">favoritestores</a>
+### Live Demo :- <a href="https://favoritestores.ccbp.tech/">favoritestores</a>
 # Favorite-Stores-Page-static-page-1
 A static web page
 Favorite Stores Page
